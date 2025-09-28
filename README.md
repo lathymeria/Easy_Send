@@ -1,6 +1,6 @@
 # Easy Send
 
-Another thing I vibe-coded for my needs. 
+Another thing I vibe-coded for my needs. VST3/[CLAP](https://github.com/free-audio/clap) plugin for transmitting audio.
 
 This plugin was inspired by [Senderella](https://www.kvraudio.com/product/senderella_by_subminimal), a plugin developed by [Subliminal](https://web.archive.org/web/20070709063557/http://subminimal.org/modulr.php) a long while ago, that does not work on newer hosts.
 
