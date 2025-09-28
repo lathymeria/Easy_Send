@@ -118,7 +118,7 @@ impl Plugin for EasySend {
     const NAME: &'static str = "Easy Send";
     const VENDOR: &'static str = "Lath Audio";
     const URL: &'static str = "https://www.instagram.com/lathymeria/";
-    const EMAIL: &'static str = "broadenyourmindz@gmail.con";
+    const EMAIL: &'static str = "lathy@lathymeria.xyz";
     const VERSION: &'static str = env!("CARGO_PKG_VERSION");
 
     const AUDIO_IO_LAYOUTS: &'static [AudioIOLayout] = &[
